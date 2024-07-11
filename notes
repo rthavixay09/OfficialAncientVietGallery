@@ -1,0 +1,24 @@
+    <nav>
+        <div class="navTop">
+            <div class="navItem">
+                <img src="./img/Ancient Viet Gallery Text Only.png" width="120" height="45" alt="">
+            </div>
+            <div class="navItem">
+                <div class="search">
+                    <input type="text" placeholder="Search..." class="searchInput">
+            
+                    <!-- include image icon for search bar here-->
+
+                 </div>
+            </div>
+            <div class="navItem">
+                <span class="limitedOffer"></span>
+            </div>
+        </div>
+
+        <div class="navBottom"></div>
+    </nav>
+
+
+
+
